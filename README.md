@@ -158,7 +158,3 @@ For each high-risk node, the LLM remediation engine generates:
 | T1136 | Create Account | iam:CreateRole permissions |
 
 ---
-
-## License
-
-MIT License
